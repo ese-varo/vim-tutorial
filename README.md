@@ -209,3 +209,8 @@ Working with tabs
     Ctrl-PgDn go to next tab 
     Ctrl-PgUp go to previous tab 
 
+Save a file you edited without the required permissions 
+
+    :w !sudo tee %
+    :sh - run a command from within the editor 
+    
