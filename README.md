@@ -66,3 +66,18 @@ Insert mode - inserting/appending text
     ea - insert (append) at the end of the word
     Esc - exit insert mode
 
+Editing
+
+    r - replace a single character
+    J - join line below to the current one with one space in between
+    gJ - join line below to the current one without space in between
+    cc - change (replace) entire line
+    cw - change (replace) to the end of the word
+    c$ - change (replace) to the end of the line
+    s - delete character and substitute text
+    S - delete line and substitute text (same as cc)
+    xp - transpose two letters (delete and paste)
+    u - undo
+    Ctrl + r - redo
+    . - repeat last command
+
