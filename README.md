@@ -214,3 +214,9 @@ Save a file you edited without the required permissions
     :w !sudo tee %
     :sh - run a command from within the editor 
     
+Preserve indentation during copy/paste
+
+    Add the line: "set pastetoggle=<F2>" to your .vimrc file
+    and press F2 in insert mode just before pasting the code. This
+    preserve the original indentation.
+
