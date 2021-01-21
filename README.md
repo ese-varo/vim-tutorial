@@ -103,3 +103,12 @@ Visual commands
     d - delete marked text
     ~ - switch case
 
+Registers
+
+    :reg - show registers content
+    "xy - yank into register x
+    "xp - paste contents of register x
+
+#Tip Registers are being stored in ~/.viminfo, and will be loaded again on next restart of vim.
+#Tip Register 0 contains always the value of the last yank command.
+
