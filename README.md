@@ -232,3 +232,8 @@ Searching
     take you to all the places where the word/variable is used
     in the file
 
+Ruby on Rails 
+
+    = on a single line or a visual block vim will indent 
+         Rail files automatically 
+
