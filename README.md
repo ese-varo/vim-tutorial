@@ -220,3 +220,15 @@ Preserve indentation during copy/paste
     and press F2 in insert mode just before pasting the code. This
     preserve the original indentation.
 
+Keyword completion
+
+    Ctrl-n is used to insert the next matching word 
+    Ctrl-p gives you a list of previous matching words
+
+Searching 
+
+    Move the cursor over the word/variable you are trying to search
+    and press Esc, then press Shift-* repeatedly and the editor will
+    take you to all the places where the word/variable is used
+    in the file
+
