@@ -81,3 +81,25 @@ Editing
     Ctrl + r - redo
     . - repeat last command
 
+Marking text (visual mode)
+
+    v - start visual mode, mark lines, then do a command (like y-yank)
+    V - start linewise visual mode
+    o - move to other end of marked area
+    Ctrl + v - start visual block mode
+    O - move to other corner of block
+    aw - mark a word
+    ab - a block with ()
+    aB - a block with {}
+    ib - inner block with ()
+    iB - inner block with {}
+    Esc - exit visual mode
+
+Visual commands
+
+    > - shift text right
+    < - shift text left
+    y - yank (copy) marked text
+    d - delete marked text
+    ~ - switch case
+
