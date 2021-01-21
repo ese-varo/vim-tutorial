@@ -200,3 +200,12 @@ Resizing split windows
     space-h rezise the with 3 less columns
     space-l rezise the with 3 more columns
 
+Working with tabs
+
+    From normal mode 
+    gt next tab
+    gT prior tab
+    #gt numbered tab where # is the tab number
+    Ctrl-PgDn go to next tab 
+    Ctrl-PgUp go to previous tab 
+
