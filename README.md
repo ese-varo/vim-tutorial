@@ -237,3 +237,7 @@ Ruby on Rails
     = on a single line or a visual block vim will indent 
          Rail files automatically 
 
+NERDTree
+  
+    Ctrl-n Toogle NERDTree
+
