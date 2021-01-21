@@ -112,3 +112,17 @@ Registers
 #Tip Registers are being stored in ~/.viminfo, and will be loaded again on next restart of vim.
 #Tip Register 0 contains always the value of the last yank command.
 
+Marks
+
+    :marks - list of marks
+    ma - set current position for mark A
+    `a - jump to position of mark A
+    y`a - yank text to position of mark A
+
+Macros
+
+    qa - record macro a
+    q - stop recording macro
+    @a - run macro a
+    @@ - rerun last run macro
+
