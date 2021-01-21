@@ -188,3 +188,15 @@ Working with multiple files
     Ctrl + wj - move cursor to the window below (horizontal split)
     Ctrl + wk - move cursor to the window above (horizontal split)
 
+Resizing split windows 
+
+    For a split window:
+    Resize height of the current window by a single row.
+    space-j rezise the with 3 less rows
+    space-k rezise the with 3 more rows
+    
+    For a vsplit window:
+    To resize width of the current window by a single column.
+    space-h rezise the with 3 less columns
+    space-l rezise the with 3 more columns
+
