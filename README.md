@@ -1,7 +1,7 @@
 # vim tutorial
 
 /////////////////////////// VIM COMMANDS /////////////////////////
-Vim Cheat Sheet
+	Vim Cheat Sheet
 
 Change default location of vimrc using file linking
 

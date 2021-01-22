@@ -1,0 +1,7 @@
+Para poder agregar un archivo use el comando touch name-file.txt
+
+Despues cambias el archivo de la stating area al working area a traves de 
+git add .
+
+Despues subir los cambios a la nueva rama
+git push origin HEAD
